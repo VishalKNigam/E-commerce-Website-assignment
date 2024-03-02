@@ -36,19 +36,19 @@ To run this project locally, follow these steps:
 
 ## **_Product Page_**
 
-<img width="1075" alt="Product Page" src="">
+<img width="1075" alt="Product Page" src="https://github.com/VishalKNigam/E-commerce-Website-assignment/blob/main/src/Images/ProductPage.png">
 
 ## **_Login Page_**
 
-<img width="1075" alt="Login Page" src="">
+<img width="1075" alt="Login Page" src="https://github.com/VishalKNigam/E-commerce-Website-assignment/blob/main/src/Images/LoginPage.png">
 
 ## **_Admin Page_**
 
-<img width="1075" alt="Admin Page" src="">
+<img width="1075" alt="Admin Page" src="https://github.com/VishalKNigam/E-commerce-Website-assignment/blob/main/src/Images/AdminPage.png">
 
 ## **_About Page_**
 
-<img width="1075" alt="About Page" src="">
+<img width="1075" alt="About Page" src="https://github.com/VishalKNigam/E-commerce-Website-assignment/blob/main/src/Images/AboutPage.png">
 
 **Thank you for your support! We welcome your feedback.**
 
